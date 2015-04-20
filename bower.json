@@ -1,9 +1,17 @@
 {
-  "name": "font-awesome-sass-2",
-  // "version": "4.3.1",
-  "homepage": "~/code/opensource/font-awesome-sass",
-  "source": "~/code/opensource/font-awesome-sass",
+  "name": "font-awesome-sass",
+  "version": "a330820a2cf9c8b02b86d96c33ee354bd99d5185",
+  "homepage": "https://github.com/hersonls/font-awesome-sass",
+  "source": "https://github.com/hersonls/font-awesome-sass",
   "description": "Font-Awesome Sass",
+  "main": [
+    "assets/stylesheets/font-awesome.scss",
+    "assets/fonts/font-awesome/fontawesome-webfont.eot",
+    "assets/fonts/font-awesome/fontawesome-webfont.svg",
+    "assets/fonts/font-awesome/fontawesome-webfont.ttf",
+    "assets/fonts/font-awesome/fontawesome-webfont.woff",
+    "assets/fonts/font-awesome/fontawesome-webfont.woff2"
+  ],
   "moduleType": [
     "globals"
   ],
@@ -19,13 +27,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "main": [
-    "assets/stylesheets/font-awesome.scss",
-    "assets/fonts/font-awesome/fontawesome-webfont.eot",
-    "assets/fonts/font-awesome/fontawesome-webfont.svg",
-    "assets/fonts/font-awesome/fontawesome-webfont.ttf",
-    "assets/fonts/font-awesome/fontawesome-webfont.woff",
-    "assets/fonts/font-awesome/fontawesome-webfont.woff2"
   ]
 }
