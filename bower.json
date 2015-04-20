@@ -1,0 +1,20 @@
+{
+  "name": "font-awesome-sass",
+  "homepage": "https://github.com/FortAwesome/font-awesome-sass",
+  "version": "4.3.1",
+  "source": "git://github.com/FortAwesome/font-awesome-sass.git",
+  "description": "Font-Awesome Sass",
+  "keywords": [
+    "font",
+    "awesome",
+    "sass"
+  ],
+  "main": [
+    "assets/stylesheets/font-awesome.scss",
+    "assets/fonts/font-awesome/fontawesome-webfont.eot",
+    "assets/fonts/font-awesome/fontawesome-webfont.svg",
+    "assets/fonts/font-awesome/fontawesome-webfont.ttf",
+    "assets/fonts/font-awesome/fontawesome-webfont.woff",
+    "assets/fonts/font-awesome/fontawesome-webfont.woff2"
+  ]
+}
